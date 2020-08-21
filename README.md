@@ -1,6 +1,6 @@
 # Wahalalist
 
-Udacity Android Developer Nanodegree Capstone Project
+Project
 
 This app is for connecting users who have problems and need a fix from service providers 
 like electricians, plumbers, carpenters, mechanics etc. associated with this platform. 
